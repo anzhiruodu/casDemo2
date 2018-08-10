@@ -3,12 +3,12 @@
   <groupId>com.lishenming</groupId>
   <artifactId>casDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>地方的生活</packaging>
+  <packaging>哈哈哈哈哈哈</packaging>
   
   <dependencies>
 		<!-- cas -->  
 		<dependency>  
-		    <groupId>org.jasig.cas.client</groupId>  
+		    <groupId>org.jasig.cas.qqqqqq</groupId>  
 		    <artifactId>cas-client-core</artifactId>  
 		    <version>3.3.3</version>  
 		</dependency>  		
