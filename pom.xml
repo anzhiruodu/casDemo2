@@ -8,7 +8,7 @@
   <dependencies>
 		<!-- cas -->  
 		<dependency>  
-		    <groupId>org.jasig.ppppppppppppppppppppppppp</groupId>  
+		    <groupId>org.jasig.pkkpppppppppppppppppppppp</groupId>  
 		    <artifactId>cas-client-core</artifactId>  
 		    <version>3.3.3</version>  
 		</dependency>  		
